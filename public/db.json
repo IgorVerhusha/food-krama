@@ -1,0 +1,393 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/67e4a344-3b02-4015-9aa8-5cac4c9c665e.jpg",
+      "name": "Пепперони",
+      "types": [0, 1],
+      "sizes": ["26 см.", "30 см.", "35 см."],
+      "prices": {
+        "26 см.": 8,
+        "30 см.": 13,
+        "35 см.": 18
+      },
+      "category": 0,
+      "rating": 8,
+      "price": 8
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/3c4cd257dbec4f02978bf07e1745ffe2_292x292.jpeg",
+      "name": "Ветчина и грибы",
+      "types": [0],
+      "sizes": ["26 см.", "30 см.", "35 см."],
+      "prices": {
+        "26 см.": 8,
+        "30 см.": 13,
+        "35 см.": 18
+      },
+      "category": 0,
+      "rating": 6,
+      "price": 8
+ },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/8fe9ff68-1cbf-4442-b87e-ecf9405cbffa.jpg",
+      "name": "Чизбургер-пицца",
+      "types": [0],
+      "sizes": ["26 см.", "30 см.", "35 см."],
+      "prices": {
+        "26 см.": 9,
+        "30 см.": 14,
+        "35 см.": 19
+      },
+      "category": 0,
+      "rating": 5,
+      "price": 9
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/5a673f2a-8cd9-4e5a-9145-5d6d8ea3eddd.jpg",
+      "name": "Цыпленок барбекю",
+      "types": [1],
+      "sizes": ["26 см.", "30 см.", "35 см."],
+      "prices": {
+        "26 см.": 8,
+        "30 см.": 13,
+        "35 см.": 18
+      },
+      "category": 0,
+      "rating": 4,
+      "price": 8
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/9b9d0fc5-3427-4780-9641-a89d64ec1783.jpg",
+      "name": "Гавайская",
+      "types": [0, 1],
+      "sizes": ["26 см.", "30 см.", "35 см."],
+      "prices": {
+        "26 см.": 8,
+        "30 см.": 13,
+        "35 см.": 18
+      },
+      "category": 0,
+      "rating": 4,
+      "price": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/e50d42c9-0f45-45cd-84d7-863e28f631da.jpg",
+      "name": "Итальянская",
+      "types": [0],
+      "sizes": ["26 см.", "30 см.", "35 см."],
+      "prices": {
+        "26 см.": 8,
+        "30 см.": 13,
+        "35 см.": 18
+      },
+      "category": 0,
+      "rating": 9,
+      "price": 8
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/8667afa2-7df7-4856-b59a-fd89306d8ddb.jpg",
+      "name": "Мексиканская \uD83C\uDF36️\uD83C\uDF36️",
+      "types": [0, 1],
+      "sizes": ["26 см.", "30 см.", "35 см."],
+      "prices": {
+        "26 см.": 9,
+        "30 см.": 14,
+        "35 см.": 19
+      },
+      "category": 0,
+      "rating": 6,
+      "price": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/bf2a5b96-c40c-4e16-aa71-72a599840686.jpg",
+      "name": "Четыре сезона",
+      "types": [0, 1],
+      "sizes": ["26 см.", "30 см.", "35 см."],
+      "prices": {
+        "26 см.": 8,
+        "30 см.": 13,
+        "35 см.": 18
+      },
+      "category": 0,
+      "rating": 6,
+      "price": 8
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/b68a45f3-b317-434e-a665-eb94393946de.jpg",
+      "name": "Кисло-сладкий цыпленок",
+      "types": [0, 1],
+      "sizes": ["26 см.", "30 см.", "35 см."],
+      "prices": {
+        "26 см.": 8,
+        "30 см.": 13,
+        "35 см.": 18
+      },
+      "category": 0,
+      "rating": 5,
+      "price": 8
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://krolikbro.ru/source/catalogUnit/miniatures/dakota-burger.jpg",
+      "name": "Бургер из говядины",
+      "types": [0, 1],
+      "sizes": ["XL 300 гр.", "XXL 500 гр."],
+      "prices": {
+        "XL 300 гр.": 7,
+        "XXL 500 гр.": 11
+      },
+      "category": 1,
+      "rating": 7,
+      "price": 7
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://krolikbro.ru/source/catalogUnit/miniatures/lumberjack-burger.jpg",
+      "name": "Чикен бургер",
+      "types": [0, 1],
+      "sizes": ["XL 300 гр.", "XXL 500 гр."],
+      "prices": {
+        "XL 300 гр.": 6,
+        "XXL 500 гр.": 10
+      },
+      "category": 1,
+      "rating": 6,
+      "price": 6
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://krolikbro.ru/source/catalogUnit/miniatures/beef-bbq.jpg",
+      "name": "Бургер Beef BBQ",
+      "types": [0, 1],
+      "sizes": ["XL 300 гр.", "XXL 500 гр."],
+      "prices": {
+        "XL 300 гр.": 8,
+        "XXL 500 гр.": 12
+      },
+      "category": 1,
+      "rating": 9,
+      "price": 8
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://krolikbro.ru/source/catalogUnit/miniatures/eatmeat-burger.jpg",
+      "name": "King бургер",
+      "types": [0, 1],
+      "sizes": [ "XXL+ 800 гр."],
+      "prices": {
+        "XXL+ 800 гр.": 18
+      },
+      "category": 1,
+      "rating": 10,
+      "price": 18
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://papadoner.by/images/product/000/000033/5d37505675518.jpg",
+      "name": "Донер Чикен",
+      "types": [0, 1],
+      "sizes": [ "XL 500 гр.", "XXL 800 гр."],
+      "prices": {
+        "XL 500 гр.": 6,
+        "XXL 800 гр.": 9
+      },
+      "category": 2,
+      "rating": 8,
+      "price": 6
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://papadoner.by/images/product/000/000050/5d3dc77801a38.jpg",
+      "name": "Донер Чикен Фреш",
+      "types": [0, 1],
+      "sizes": [ "XL 500 гр.", "XXL 800 гр."],
+      "prices": {
+        "XL 500 гр.": 6,
+        "XXL 800 гр.": 9
+      },
+      "category": 2,
+      "rating": 5,
+      "price": 6
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://papadoner.by/images/product/000/000042/5d3dbde52a875.jpg",
+      "name": "Донер Терияки",
+      "types": [0, 1],
+      "sizes": [ "XL 500 гр.", "XXL 800 гр."],
+      "prices": {
+        "XL 500 гр.": 7,
+        "XXL 800 гр.": 10
+      },
+      "category": 2,
+      "rating": 8,
+      "price": 7
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://papadoner.by/images/product/000/000049/5d3dc721661dc.jpg",
+      "name": "Донер Чикен Барбекю",
+      "types": [0, 1],
+      "sizes": [ "XL 500 гр.", "XXL 800 гр."],
+      "prices": {
+        "XL 500 гр.": 7,
+        "XXL 800 гр.": 10
+      },
+      "category": 2,
+      "rating": 7,
+      "price": 7
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://papadoner.by/images/product/000/000024/5d3722bb75b9c.jpg",
+      "name": "Донер с бараниной",
+      "types": [0, 1],
+      "sizes": [ "XL 500 гр.", "XXL 800 гр."],
+      "prices": {
+        "XL 500 гр.": 9,
+        "XXL 800 гр.": 12
+      },
+      "category": 2,
+      "rating": 9,
+      "price": 9
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://papadoner.by/images/product/000/000043/5d3dbe209c037.jpg",
+      "name": "Донер Чили",
+      "types": [0, 1],
+      "sizes": [ "XL 500 гр.", "XXL 800 гр."],
+      "prices": {
+        "XL 500 гр.": 7,
+        "XXL 800 гр.": 10
+      },
+      "category": 2,
+      "rating": 7,
+      "price": 7
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://papadoner.by/images/product/000/000073/5e2afbfc9f7ed.png",
+      "name": "Донер с фалафелем",
+      "types": [0, 1],
+      "sizes": [ "XL 500 гр.", "XXL 800 гр."],
+      "prices": {
+        "XL 500 гр.": 5,
+        "XXL 800 гр.": 7
+      },
+      "category": 2,
+      "rating": 4,
+      "price": 5
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://krolikbro.ru/snack/units/ostrie/images/ostrie",
+      "name": "Крылышки острые",
+      "types": [0, 1],
+      "sizes": [ "4 шт.", "6 шт.", "8 шт."],
+      "prices": {
+        "4 шт.": 3,
+        "6 шт.": 4,
+        "8 шт.": 5
+      },
+      "category": 3,
+      "rating": 8,
+      "price": 3
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://krolikbro.ru/snack/units/naggets/images/naggets",
+      "name": "Наггетсы",
+      "types": [0, 1],
+      "sizes": [ "6 шт.", "8 шт.", "10 шт."],
+      "prices": {
+        "6 шт.": 3,
+        "8 шт.": 4,
+        "10 шт.": 5
+      },
+      "category": 3,
+      "rating": 7,
+      "price": 3
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://krolikbro.ru/snack/units/dolki/images/dolki",
+      "name": "Картофель по-деревенски",
+      "types": [0, 1],
+      "sizes": [ "XL 200 гр.", "XXL 400 гр."],
+      "prices": {
+        "XL 200 гр.": 2,
+        "XXL 400 гр.": 3
+      },
+      "category": 3,
+      "rating": 6,
+      "price": 2
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://papadoner.by/images/product/000/000080/5e303a00f22fc.png",
+      "name": "Кола",
+      "types": [0, 1],
+      "sizes": [ "0.5 л.", "1 л."],
+      "prices": {
+        "0.5 л.": 2,
+        "1 л.": 3
+      },
+      "category": 4,
+      "rating": 7,
+      "price": 2
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://papadoner.by/images/product/000/000081/5e303a1c236fc.png",
+      "name": "Фанта",
+      "types": [0, 1],
+      "sizes": [ "0.5 л.", "1 л."],
+      "prices": {
+        "0.5 л.": 2,
+        "1 л.": 3
+      },
+      "category": 4,
+      "rating": 7,
+      "price": 2
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://papadoner.by/images/product/000/000082/5e303a460e752.peg",
+      "name": "Спрайт",
+      "types": [0, 1],
+      "sizes": [ "0.5 л.", "1 л."],
+      "prices": {
+        "0.5 л.": 2,
+        "1 л.": 3
+      },
+      "category": 4,
+      "rating": 7,
+      "price": 2
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://papadoner.by/images/product/000/000084/5e303a75cf6a0.png",
+      "name": "Бонаква",
+      "types": [0, 1],
+      "sizes": [ "0.5 л.", "1 л."],
+      "prices": {
+        "0.5 л.": 1,
+        "1 л.": 2
+      },
+      "category": 4,
+      "rating": 7,
+      "price": 1
+    }
+  ]
+}
+
