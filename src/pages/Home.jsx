@@ -1,5 +1,5 @@
 import { Categories, ItemBlock, ItemBlockLoader, SortList  } from "../components";
-import React, { useCallback, useEffect } from "react";
+import React, {useCallback, useEffect} from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { setCategory, setSortBy } from "../Redux/filters";
 import { fetchItems } from "../Redux/items";

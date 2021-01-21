@@ -85,7 +85,7 @@
   }
 }
 
-@media screen and (max-width: 900px) {
+  @media screen and (max-width: 900px) {
   .pizza-block {
     &:not(:nth-of-type(4n)) {
       margin-right: 0px;
